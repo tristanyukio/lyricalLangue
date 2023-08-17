@@ -1,0 +1,32 @@
+.definition {
+    background-color: #393939 !important;
+    margin-left: 20px;
+    width: 90%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow-wrap: break-word;
+    margin-top: 40px;
+    border-radius: 40px;
+
+  }
+   h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    color: white !important;
+    margin-bottom: 15px;
+  }
+  .de {
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-top: 0px;
+
+  }
+  p {
+    color: white;
+  }
+  
+  

@@ -1,0 +1,47 @@
+nav {
+    background-color: #282828;
+    min-height: 55px;
+    color: white; 
+    padding-bottom: 20px;
+  }
+  nav > ul { 
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-top: 20px;
+  }
+  .pages {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+  }
+  .pages li {
+    margin-right: 40px;
+  }
+
+
+  .logo {
+    font-size: 40px;
+    margin-left: 25px;
+    margin-top: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+  }
+
+  button {
+    background-color: #444444;
+    font-weight: 500;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 10px;
+  
+  }
+
+  .pages-one {
+    margin-top: 15px;
+  }

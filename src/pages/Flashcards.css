@@ -1,0 +1,66 @@
+
+.flashcards {
+  background-color: #282828;
+  height: 1000px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3 {
+    color: black;
+}
+.character-card {
+    background-color: #3A345B;;
+    border: 1px solid #ccc;
+    display: flex;
+    margin-bottom: 25px;
+  }
+  
+  .word-column {
+    margin-left: 50px;
+    width: 340px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+  }
+  
+  .definition-one {
+    height: 55px;
+    width: 700px;
+    margin-top: 20px;
+  }
+  .word-title {
+    font-size: 22px;
+    font-weight: 600;
+  }
+
+  .line-word {
+    display: flex;
+    margin-left: 50px;
+    background-color: #444444;
+    margin-bottom: 10px;
+    height: 100px;
+  }
+
+  .line-word p {
+    color: black;
+  }
+
+  .word-one {
+    /* background-color: #EE2424; */
+    width: 300px;
+    margin-right: 10px;
+  }
+
+  .word-one > p {
+    margin-top: 15px;
+    margin-left: 20px;
+    color: white;
+  }
+  .word-two {
+    width: 500px;
+  }
+
+  .word-two > p {
+    margin-top: 15px;
+    margin-left: 20px;
+    color: white;
+  }

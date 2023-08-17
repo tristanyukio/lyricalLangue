@@ -1,0 +1,50 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-content: center;
+    background-color: #282828;
+    padding-bottom: 360px;
+}
+
+.login > div {
+    display: flex;
+    /* align-content: center;
+    align-content: center; */
+    background-color: #3A345B;
+    height: 400px;
+    margin-top: 150px;
+    border-radius: 50px;
+    width: 500px;
+}
+form {
+    margin-top: 50px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.formGroup {
+    width: 400px;
+    margin-bottom: 30px;
+
+}
+
+.formGroup-2 {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+
+.input-one {
+    height: 50px;
+    width: 400px;
+    border-radius: 40px;
+    border: none;
+}
+
+.login-button {
+    height: 40px;
+}

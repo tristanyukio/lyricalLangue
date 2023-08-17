@@ -1,0 +1,23 @@
+.definition {
+    background-color: red; 
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow-wrap: break-word;
+  }
+   h3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  .de {
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-top: 0px;
+    background-color: yellow;
+  }
+  
+  
